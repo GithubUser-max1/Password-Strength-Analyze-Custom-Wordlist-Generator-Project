@@ -383,6 +383,8 @@ function generateWordlist() {
 
 <img width="753" height="868" alt="Screenshot 2025-07-29 001917" src="https://github.com/user-attachments/assets/8075c632-fd62-4abb-b8c3-06cdd2c2d09a" />
 
+https://www.linkedin.com/posts/archana-b-b92183270_cybersecurity-python-passwordsecurity-activity-7353070697717358604-jUZ7?utm_source=share&utm_medium=member_android&rcm=ACoAAEI7rt4B4wsDW1H_WONWicHNrbvBmuls6Ng
+
 ```
 file:///C:/Users/archa/.VirtualBox/python/password%20prj.html
 ```
