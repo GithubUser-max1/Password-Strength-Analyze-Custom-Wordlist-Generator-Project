@@ -375,6 +375,14 @@ function generateWordlist() {
 - This project is for educational and personal use only.  
   Do not use it to store or manage real passwords.
 
+## ✅💻 Demo Output
+
+<img width="1342" height="891" alt="image" src="https://github.com/user-attachments/assets/f0a1494c-700e-4bb5-8067-027c602e07af" />
+
+<img width="808" height="907" alt="image" src="https://github.com/user-attachments/assets/cf11422b-57f7-4c43-84d4-1799ccad390d" />
+
+<img width="753" height="868" alt="Screenshot 2025-07-29 001917" src="https://github.com/user-attachments/assets/8075c632-fd62-4abb-b8c3-06cdd2c2d09a" />
+
 
 ## 📚 Educational Content
 
