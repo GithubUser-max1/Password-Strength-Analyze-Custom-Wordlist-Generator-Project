@@ -384,6 +384,8 @@ function generateWordlist() {
 <img width="753" height="868" alt="Screenshot 2025-07-29 001917" src="https://github.com/user-attachments/assets/8075c632-fd62-4abb-b8c3-06cdd2c2d09a" />
 
 
+file:///C:/Users/archa/.VirtualBox/python/password%20prj.html
+
 ## 📚 Educational Content
 
 ### Why Password Strength Matters
